@@ -4,6 +4,9 @@ title: CV
 subtitle: 
 ---
 
+{: .box-note}
+**Note:** new job in Berlin.
+
 ### Education
 
 2017-2019 Master in Cognitive Science - [ENS Paris](https://www.ens.psl.eu/)
