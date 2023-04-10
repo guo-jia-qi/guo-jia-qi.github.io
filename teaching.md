@@ -4,6 +4,6 @@ title: CV
 subtitle: 
 ---
 
-# Freie Universität Berlin
+### Freie Universität Berlin
 
 SoSe2023 Empirische Methoden der Sprachwissenschaft
