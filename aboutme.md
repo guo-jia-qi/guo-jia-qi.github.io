@@ -6,7 +6,7 @@ subtitle:
 
 ### Education
 
-2017-2019 Master in Cognitive Science - [ENS Paris](https://www.ens.psl.eu/))
+2017-2019 Master in Cognitive Science - [ENS Paris](https://www.ens.psl.eu/)
 
 2012-2016 Bachelor in French - Xi'an International Studies University
 
