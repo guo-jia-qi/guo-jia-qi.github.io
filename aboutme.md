@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: CV
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Education
 
-- linguistics
-- bioethics
+2017-2019 Master in Cognitive Science - [ENS Paris](https://www.ens.psl.eu/))
 
-What else do you need?
+2012-2016 Bachelor in French - Xi'an International Studies University
 
-### My story
+### Employment
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
