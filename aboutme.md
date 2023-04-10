@@ -16,4 +16,4 @@ subtitle:
 
 2017-2019 [Cogmaster](https://cogmaster.ens.psl.eu/fr)
 
-2012-2016 Bachelor in French - Xi'an International Studies University
+2012-2016 BA in French - Xi'an International Studies University
