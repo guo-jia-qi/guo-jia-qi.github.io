@@ -8,11 +8,11 @@ subtitle:
 
 ### Employment
 
-03.2023-present &emsp; Wiss. Mitarbeiter - Freie Universität Berlin
+[03.2023-present &emsp; Wiss. Mitarbeiter - Freie Universität Berlin
 
-09.2022-01.2023 &emsp; Secretary of International Affairs - DGUT-CNAM Institute
+[09.2022-01.2023 &emsp; Secretary of International Affairs - DGUT-CNAM Institute
 
-10.2021-02.2022 &emsp; Junior Research Assistant - The Chinese University of Hong Kong
+[10.2021-02.2022 &emsp; Junior Research Assistant - The Chinese University of Hong Kong
   
 ### Education
 
