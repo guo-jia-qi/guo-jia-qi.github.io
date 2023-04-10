@@ -1,6 +1,5 @@
 ---
 layout: page
-googlefonts: ["Open Sans"]
 title: CV
 subtitle: 
 ---
@@ -8,11 +7,11 @@ subtitle:
 
 ### Employment
 
-03.2023-present &emsp; Wiss. Mitarbeiter - Freie Universität Berlin
+<font face="courier New">03.2023-present &emsp; Wiss. Mitarbeiter - Freie Universität Berlin </font>
 
-09.2022-01.2023 &emsp; Secretary of International Affairs - DGUT-CNAM Institute
+<font face="courier New">09.2022-01.2023 &emsp; Secretary of International Affairs - DGUT-CNAM Institute</font>
 
-10.2021-02.2022 &emsp; Junior Research Assistant - The Chinese University of Hong Kong
+<font face="courier New">10.2021-02.2022 &emsp; Junior Research Assistant - The Chinese University of Hong Kong</font>
   
 ### Education
 
