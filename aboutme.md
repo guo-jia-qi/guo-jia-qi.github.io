@@ -7,11 +7,15 @@ subtitle:
 
 ### Employment
 
-<font face="courier New">03.2023-present &emsp; Wiss. Mitarbeiter - Freie Universität Berlin </font>
-
-<font face="courier New">09.2022-01.2023 &emsp; Secretary of International Affairs - DGUT-CNAM Institute</font>
-
-<font face="courier New">10.2021-02.2022 &emsp; Junior Research Assistant - The Chinese University of Hong Kong</font>
+<HTML>
+<body>
+  <font face="courier New" size=6 color="red">
+    03.2023-present &emsp; Wiss. Mitarbeiter - Freie Universität Berlin
+    09.2022-01.2023 &emsp; Secretary of International Affairs - DGUT-CNAM Institute
+    10.2021-02.2022 &emsp; Junior Research Assistant - The Chinese University of Hong Kong
+  </font>
+ </body>
+ </HTML>
   
 ### Education
 
