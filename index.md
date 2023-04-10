@@ -4,7 +4,7 @@ title: Jiaqi Guo | 郭嘉骐
 subtitle:
 ---
 {: .box-note}
-**News:** new job in Berlin.
+**News:**
 
 I am Wiss. Mitarbeiter and PhD student at Freie Universität Berlin.
 
