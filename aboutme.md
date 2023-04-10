@@ -1,5 +1,6 @@
 ---
 layout: page
+googlefonts: Open Sans
 title: CV
 subtitle: 
 ---
