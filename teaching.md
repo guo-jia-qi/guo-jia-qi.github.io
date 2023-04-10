@@ -6,4 +6,4 @@ subtitle:
 
 ### Freie Universität Berlin
 
-SoSe2023 Empirische Methoden der Sprachwissenschaft
+SoSe2023 &emsp; Empirische Methoden der Sprachwissenschaft
