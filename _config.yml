@@ -21,7 +21,7 @@ author: Jiaqi Guo
 
 navbar-links:
   CV: "aboutme"
-  Publication: "publication"
+  Output: "publication"
 #  Resources:
 #   - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
