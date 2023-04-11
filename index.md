@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jiaqi Guo | 郭嘉骐
+title:
 subtitle:
 ---
 {: .box-note}
