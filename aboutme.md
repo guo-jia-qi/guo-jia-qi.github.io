@@ -22,3 +22,7 @@ subtitle:
 |   | Ecole Normale Supérieure (rue d'Ulm) |
 | 2016 | BA in French |
 || Xi'an International Studies University|
+
+----------------------------
+
+detailed CV available upon request
