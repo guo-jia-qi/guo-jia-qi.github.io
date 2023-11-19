@@ -21,11 +21,12 @@ author: Jiaqi Guo
 
 navbar-links:
   CV: "aboutme"
-  Talks: "Talks"
+  Talks: "talks"
 #  Resources:
 #   - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   Teaching: "teaching"
+  Publication: "publication"
 
 ################
 # --- Logo --- #
