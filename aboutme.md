@@ -5,13 +5,6 @@ subtitle:
 ---
 
 
-### Employment
-    
-03.2023-present &emsp; Wiss. Mitarbeiter \
-    Freie Universität Berlin
-    
-10.2021-02.2022 &emsp; Junior Research Assistant \
-    The Chinese University of Hong Kong
   
 ### Education
 
@@ -21,8 +14,6 @@ subtitle:
 2012-2016 &emsp; Bachelor in French \
     Xi'an International Studies University, China
 
-|2023-present|Wissenschaflicher Mitarbeiter|
-||Freie Universität Berlin|
 
 |       | Employment |
 | ----------- | ----------- |
@@ -30,3 +21,11 @@ subtitle:
 |   | Freie Universität Berlin |
 |2021-2022| Junior Research Assistant|
 || The Chinese University of Hong Kong|
+
+
+|       | Education |
+| ----------- | ----------- |
+| 2019 | [MA in cognitive science](https://cogmaster.ens.psl.eu/fr) (concentration: linguistics)  |
+|   | Ecole Normale Supérieure (rue d'Ulm) |
+| 2016 | BA in French |
+|| Xi'an International Studies University|
