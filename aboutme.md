@@ -20,3 +20,7 @@ subtitle:
 
 2012-2016 &emsp; Bachelor in French \
     Xi'an International Studies University, China
+
+|2023-present|Wissenschaflicher Mitarbeiter|
+||Freie Universität Berlin|
+
