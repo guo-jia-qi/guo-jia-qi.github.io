@@ -6,12 +6,15 @@ subtitle:
 
 <!--
 {: .box-note}
-**News:**
+**News:Going Romance 37**
  -->
 
-I am Wiss. Mitarbeiter and PhD student at Freie Universität Berlin. I am interested in syntax and its interface with morphology and semantics, such as:
-* Agreement
+I am Wiss. Mitarbeiter at Freie Universität Berlin. I am writting my dissertation about word-part ellipsis under the supervision of Prof. Judith Meinschaefer.
+
+
+* Syntax-prosody interface
+* Syntax-semantic interface
+* Psycholinguistics
 * Ellipsis
+* Right node raising
 * Coordination
-* Imperatives
-* ECM
