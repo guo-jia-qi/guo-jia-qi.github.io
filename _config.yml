@@ -20,6 +20,7 @@ author: Jiaqi Guo
 ###############################################
 
 navbar-links:
+  Home: "index"
   CV: "aboutme"
   Talks: "talks"
 #  Resources:
