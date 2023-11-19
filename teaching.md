@@ -6,7 +6,7 @@ subtitle:
 
 ### Freie Universität Berlin
 
-WiSe23-24 Initiation à la sémantique du français
+WiSe23/24 Initiation à la sémantique du français
 
 
 SoSe23 Empirische Methoden der Sprachwissenschaft \
