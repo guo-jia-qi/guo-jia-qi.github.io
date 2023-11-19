@@ -5,10 +5,8 @@ subtitle:
 ---
 
 ```
-The art of teaching is the art of assisting discovery.
-<div style="text-align:right;">
-    ---Mark Van Doren
-</div>
+The art of teaching is the art of assisting discovery. \
+---Mark Van Doren
 ```
 
 ### Freie Universität Berlin
