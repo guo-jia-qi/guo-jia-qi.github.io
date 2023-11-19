@@ -15,6 +15,6 @@ subtitle:
   
 ### Education
 
-2017-2019 &emsp; [Cogmaster](https://cogmaster.ens.psl.eu/fr)
+2017-2019 &emsp; Master in cognitive science (concentration: linguistics) - ENS, Paris, France
 
-2012-2016 &emsp; BA in French - Xi'an International Studies University
+2012-2016 &emsp; BA in French - Xi'an International Studies University, China
