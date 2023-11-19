@@ -4,8 +4,9 @@ title: Talks
 subtitle: 
 ---
 
-
-2023 Prosodic conditioning in French word part ellipsis \
+```
+2023 Prosodic conditioning in French word part ellipsis
+```
 Going Romance 37, Nijmegen, Netherlands \
 (with Judith Meinschaefer)
 
