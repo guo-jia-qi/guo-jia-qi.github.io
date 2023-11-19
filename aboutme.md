@@ -24,7 +24,9 @@ subtitle:
 |2023-present|Wissenschaflicher Mitarbeiter|
 ||Freie Universität Berlin|
 
-| Time      | Employment |
+|       | Employment |
 | ----------- | ----------- |
 | 2023-present| Wissenschaflicher Mitarbeiter |
 |   | Freie Universität Berlin |
+|2021-2022| Junior Research Assistant|
+|| The Chinese University of Hong Kong|
