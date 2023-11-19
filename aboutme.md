@@ -13,7 +13,8 @@ subtitle:
 |2021-2022| Junior Research Assistant|
 || The Chinese University of Hong Kong|
 
-\
+----\
+
 
 |       | Education |
 | ----------- | ----------- |
