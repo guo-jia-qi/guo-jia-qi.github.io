@@ -13,6 +13,8 @@ subtitle:
   
 ### Education
 
-2017-2019 &emsp; Master in cognitive science (concentration: linguistics) - ENS, Paris, France
+2017-2019 &emsp; Master in cognitive science (concentration: linguistics) \
+ENS, Paris, France
 
-2012-2016 &emsp; BA in French - Xi'an International Studies University, China
+2012-2016 &emsp; Bachelor in French \
+Xi'an International Studies University, China
