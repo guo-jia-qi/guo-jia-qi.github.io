@@ -4,7 +4,6 @@ title: Talks
 subtitle: 
 ---
 
-### Master thesis
 
 2023 Prosodic conditioning in French word part ellipsis \
 Going Romance 37, Nijmegen, Netherlands \
