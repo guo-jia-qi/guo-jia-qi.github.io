@@ -24,7 +24,6 @@ subtitle:
 |2023-present|Wissenschaflicher Mitarbeiter|
 ||Freie Universität Berlin|
 
-| Syntax | Description |
 | --- | ----------- |
 | Header | Title |
 | Paragraph | Text |
