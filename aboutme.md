@@ -15,7 +15,7 @@ subtitle:
   
 ### Education
 
-2017-2019 &emsp; Master in cognitive science (concentration: linguistics) \
+2017-2019 &emsp; [Master in cognitive science](https://cogmaster.ens.psl.eu/fr) (concentration: linguistics) \
     ENS, Paris, France
 
 2012-2016 &emsp; Bachelor in French \
