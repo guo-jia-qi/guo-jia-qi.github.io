@@ -4,6 +4,11 @@ title: Teaching
 subtitle: 
 ---
 
+```
+The art of teaching is the art of assisting discovery.
+---Mark Van Doren
+```
+
 ### Freie Universität Berlin
 
 WiSe23/24 Initiation à la sémantique du français
