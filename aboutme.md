@@ -7,7 +7,7 @@ subtitle:
 
 ### Employment
     
-03.2023-present &emsp; Wiss. Mitarbeiter \ 
+03.2023-present &emsp; Wiss. Mitarbeiter \
     Freie Universität Berlin
     
 10.2021-02.2022 &emsp; Junior Research Assistant \
