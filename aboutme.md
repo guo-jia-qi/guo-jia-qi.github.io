@@ -6,13 +6,13 @@ subtitle:
 
 
 
-|       | <center>Employment</center> |
+|      | <center>Employment</center> |
 | ----------- | ----------- |
 | 2023-present| Wissenschaflicher Mitarbeiter |
 |   | Freie Universität Berlin |
 |2021-2022| Junior Research Assistant|
 || The Chinese University of Hong Kong|
-|       | <center>**Education**</center> |
+|      | <center>**Education**</center> |
 | 2019 | [MA in cognitive science](https://cogmaster.ens.psl.eu/fr) (concentration: linguistics)  |
 |  | Ecole Normale Supérieure (rue d'Ulm) |
 | 2016 | BA in French |
