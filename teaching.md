@@ -20,3 +20,9 @@ SoSe23 Empirische Methoden der Sprachwissenschaft \
 ### Tsingtao Neoyearn Co. Ltd
 
 2020-2021 Cours intensif de français
+
+--------------------------------------
+
+Here are some slides that I made. Please feel free to pick.
+
+[Why do we need types in formal semantics?](https://cogmaster.ens.psl.eu/fr) 
