@@ -22,7 +22,7 @@ subtitle:
 |   | Ecole Normale Supérieure (rue d'Ulm) |
 | 2016 | BA in French |
 || Xi'an International Studies University|
-| 2015-2016 | student exchange program |
+| 2015-2016 | Student exchange program |
 || Université de Montréal|
 ----------------------------
 
