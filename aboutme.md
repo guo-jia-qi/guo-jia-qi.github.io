@@ -24,6 +24,7 @@ subtitle:
 || Xi'an International Studies University|
 | 2015-2016 | Student exchange program |
 || Université de Montréal|
+
 ----------------------------
 
 detailed CV available upon request
