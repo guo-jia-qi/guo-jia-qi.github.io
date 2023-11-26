@@ -13,7 +13,7 @@ subtitle:
 |2021-2022| Junior Research Assistant|
 || The Chinese University of Hong Kong|
 |      | **<center>Education</center>** |
-| 2019 | [MA in cognitive science](https://cogmaster.ens.psl.eu/fr) (concentration: linguistics)  |
+| 2019 | [MA in cognitive science](https://cogmaster.ens.psl.eu/fr)  |
 |  | Ecole Normale Supérieure (rue d'Ulm) |
 | 2016 | BA in French |
 |  | Xi'an International Studies University |
