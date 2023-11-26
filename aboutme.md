@@ -19,11 +19,11 @@ subtitle:
 |       | Education |
 | ----------- | ----------- |
 | 2019 | [MA in cognitive science](https://cogmaster.ens.psl.eu/fr) (concentration: linguistics)  |
-| - | Ecole Normale Supérieure (rue d'Ulm) |
+|  | Ecole Normale Supérieure (rue d'Ulm) |
 | 2016 | BA in French |
-| - | Xi'an International Studies University |
+|  | Xi'an International Studies University |
 | 2015-2016 | Student exchange program |
-| - | Université de Montréal |
+|  | Université de Montréal |
 
 
 ----------------------------
@@ -38,11 +38,11 @@ subtitle:
 || The Chinese University of Hong Kong|
 |       | **Education** |
 | 2019 | [MA in cognitive science](https://cogmaster.ens.psl.eu/fr) (concentration: linguistics)  |
-| - | Ecole Normale Supérieure (rue d'Ulm) |
+|  | Ecole Normale Supérieure (rue d'Ulm) |
 | 2016 | BA in French |
-| - | Xi'an International Studies University |
+|  | Xi'an International Studies University |
 | 2015-2016 | Student exchange program |
-| - | Université de Montréal |
+|  | Université de Montréal |
 
 
 
