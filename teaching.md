@@ -23,7 +23,7 @@ SoSe23 Empirische Methoden der Sprachwissenschaft \
 
 --------------------------------------
 
-Here are some slides that I made. Please feel free to pick.
+I teach with analogies. Here are some analogies used in my class.
 
-[Types in formal semantics are like cells in biology](https://github.com/guo-jia-qi/guo-jia-qi.github.io/blob/master/assets/img/type1.png) \
-[What if types don't match?](https://github.com/guo-jia-qi/guo-jia-qi.github.io/blob/master/assets/img/type2.png)
+[types in formal semantics = cells in biology](https://github.com/guo-jia-qi/guo-jia-qi.github.io/blob/master/assets/img/type1.png) \
+[function = washing machine](https://github.com/guo-jia-qi/guo-jia-qi.github.io/blob/master/assets/img/type2.png)
