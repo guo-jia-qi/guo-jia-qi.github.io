@@ -26,4 +26,6 @@ SoSe23 Empirische Methoden der Sprachwissenschaft \
 Here are some slides that I made. Please feel free to pick.
 
 [Why do we need types in formal semantics?](https://github.com/guo-jia-qi/guo-jia-qi.github.io/blob/master/assets/img/type1.png)
+
+
 [What if types don't match?](https://github.com/guo-jia-qi/guo-jia-qi.github.io/blob/master/assets/img/type2.png)
