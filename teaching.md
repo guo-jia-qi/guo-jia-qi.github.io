@@ -16,11 +16,12 @@ The art of teaching is the art of assisting discovery.
 
 WiSe23/24 Initiation à la sémantique du français
 
-
 SoSe23 Empirische Methoden der Sprachwissenschaft \
 (co-teaching with Judith Meinschaefer)
 
-##### OUC (中国海洋大学继续教育学院法意西语中心)
+##### Ocean Univerisity of China (Fushan Campus)
+
+(中国海洋大学继续教育学院法意西语中心)
 
 2020-2021 Cours intensif de français
 
