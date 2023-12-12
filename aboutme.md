@@ -16,7 +16,7 @@ subtitle:
 | 2019 | MA in cognitive science |
 |  | Ecole Normale Supérieure (rue d'Ulm) |
 | 2016 | BA in French |
-|  | 西安外国语大学 |
+|  | 西安外国语大学（XISU） |
 | 2015-2016 | Student exchange program |
 |  | Université de Montréal |
 
