@@ -27,5 +27,5 @@ subtitle:
 detailed CV available upon request
 
 <a href="https://librecounter.org/referer/show" target="_blank">
-<img src="https://librecounter.org/counter.svg" referrerPolicy="unsafe-url" />
+<img src="https://librecounter.org/outline-orange.svg" referrerPolicy="unsafe-url" />
 </a>
