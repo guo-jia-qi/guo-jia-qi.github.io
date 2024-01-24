@@ -84,10 +84,6 @@ social-network-links:
 # The URL for the feed will be https://<your_website>/feed.xml
 rss-description: This website is a virtual proof that I'm awesome
 
-<a href="https://librecounter.org/referer/show" target="_blank">
-<img src="https://librecounter.org/counter.svg" referrerPolicy="unsafe-url" />
-</a>
-
 ###########################
 # --- General options --- #
 ###########################
