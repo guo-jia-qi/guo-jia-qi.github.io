@@ -12,7 +12,6 @@ I am Wiss. Mitarbeiter at Freie Universität Berlin. I am writing my dissertatio
 
 
 * Syntax-prosody interface
-* Syntax-semantic interface
 * Psycholinguistics
 * Ellipsis
 * Right node raising
