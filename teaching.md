@@ -27,8 +27,6 @@ Empirische Methoden der Sprachwissenschaft \
 
 ##### Ocean Univerisity of China (Fushan Campus)
 
-(中国海洋大学继续教育学院法意西语中心)
-
 2020-2021 Cours intensif de français
 
 
