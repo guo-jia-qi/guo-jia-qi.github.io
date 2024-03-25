@@ -33,15 +33,6 @@ Empirische Methoden der Sprachwissenschaft \
 
 
 
-|      | <center>Freie Universität Berlin</center> |
-| ----------- | ----------- |
-| SoSe 24 | Variation et changement du français |
-|   | Aspects of Chinese morphology |
-|WiSe23/24| Initiation à la sémantique du français|
-| SoSe23 | Empirische Methoden der Sprachwissenschaft \ (with Judith Meinschaefer)|
-
-
-
 --------------------------------------
 <!-- I teach with analogies. Here are some analogies used in my class. -->
 
