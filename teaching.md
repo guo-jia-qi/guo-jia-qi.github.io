@@ -32,7 +32,7 @@ SoSe23 Empirische Methoden der Sprachwissenschaft \
 | SoSe 24 | Variation et changement du français |
 |   | Aspects of Chinese morphology |
 |WiSe23/24| Initiation à la sémantique du français|
-| SoSe23 | Empirische Methoden der Sprachwissenschaft (with Judith Meinschaefer)|
+| SoSe23 | Empirische Methoden der Sprachwissenschaft \ (with Judith Meinschaefer)|
 
 
 
