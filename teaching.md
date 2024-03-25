@@ -14,10 +14,14 @@ The art of teaching is the art of assisting discovery.
 
 ##### Freie Universität Berlin
 
-WiSe23/24 
+SoSe24 \
+Variation et changement du français \
+Aspects of Chinese morphology
+
+WiSe23/24 \
 Initiation à la sémantique du français
 
-SoSe23 
+SoSe23 \
 Empirische Methoden der Sprachwissenschaft \
 (with Judith Meinschaefer)
 
