@@ -8,7 +8,7 @@ subtitle:
 
 |      | <center>Employment</center> |
 | ----------- | ----------- |
-| 2023-present| Wissenschaflicher Mitarbeiter |
+| 2023-present| Wissenschaftlicher Mitarbeiter |
 |   | Freie Universität Berlin |
 |2021-2022| Junior Research Assistant|
 || The Chinese University of Hong Kong|
