@@ -19,6 +19,14 @@ Experimental and Corpus-Based Approaches to Ellipsis (ECBAE), September 8-9, 202
 
 
 
+`Differential Sensitivity to Syllabic and Syntactic Errors in Chinese L2 Acquisition: A Study of Verbal Monosyllabic-Disyllabic Word Pair Processing Among German-Speaking Learners`
+(with Jinlei Zhong) \
+Monday TCFL Research Lectures: Forschungsthemen der Fachdidaktik Chinesisch, 2 June, Freie Universität Berlin \
+AREC(Association Recherche et Enseignement du Chinois), 24-25 June 2025, Université Paris Cité
+
+
+
+
 `Prosodic conditioning in French word part ellipsis` \
 (with Judith Meinschaefer) \
 Going Romance 37, 30/11-1/12 2023, Nijmegen, Netherlands
@@ -26,5 +34,5 @@ Going Romance 37, 30/11-1/12 2023, Nijmegen, Netherlands
 
 
 `Chinese presupposition trigger ye in questions` \
-(with Pascal Amsili)
+(with Pascal Amsili) \
 Exhaustivity in Questions and Answers -- Experimental and theoretical approaches (ExQA2019), 13.-14. June 2019, Tübingen, Germany
