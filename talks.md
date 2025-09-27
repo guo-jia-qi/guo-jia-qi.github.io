@@ -25,6 +25,6 @@ Going Romance 37, 30/11-1/12 2023, Nijmegen, Netherlands
 
 
 
-`Chinese presupposition trigger *ye* in questions` \
+`Chinese presupposition trigger ye in questions` \
 (with Pascal Amsili)
 Exhaustivity in Questions and Answers -- Experimental and theoretical approaches (ExQA2019), 13.-14. June 2019, Tübingen, Germany
