@@ -12,14 +12,19 @@ subtitle:
 6th Harvard International Conference on Chinese Pedagogy (ICCP), October 10–11, 2025
 
 
+
+`French and German word part ellipsis in coordination structures under identity` \
+(with Judith Meinschaefer) \
+Experimental and Corpus-Based Approaches to Ellipsis (ECBAE), September 8-9, 2025, Saarbrücken, Germany
+
+
+
 `Prosodic conditioning in French word part ellipsis` \
 (with Judith Meinschaefer) \
-Going Romance 37, 30/11-1/12 2023, Nijmegen, Netherlands \
+Going Romance 37, 30/11-1/12 2023, Nijmegen, Netherlands
 
-2019 Chinese presupposition trigger *ye* in questions \
-Exhaustivity in Questions and Answers -- Experimental and theoretical approaches (ExQA2019), Tübingen, Germany \
+
+
+`Chinese presupposition trigger *ye* in questions` \
 (with Pascal Amsili)
-
-
-2019 Classifier in typological perspective \
-New Approaches to the Science of Human History, Max Planck Institute for the Science of Human History, Jena, Germany
+Exhaustivity in Questions and Answers -- Experimental and theoretical approaches (ExQA2019), 13.-14. June 2019, Tübingen, Germany
