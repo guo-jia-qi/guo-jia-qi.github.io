@@ -7,9 +7,10 @@ subtitle:
 
 
 2025 Influence of shape similarity on classifier effect: evidence from native adults and CSL learners \
-8th International Conference on Chinese as a Second Language Research (CASLAR-8) \
-May 30 – June 1, 2025 \
-(with Jinlei Zhong)
+(with Jinlei Zhong) \
+8th International Conference on Chinese as a Second Language Research (CASLAR-8), May 30 – June 1, 2025 \
+53rd Poznań Linguistic Meeting (PLM), 21 - 24 September, 2025 \
+6th Harvard International Conference on Chinese Pedagogy (ICCP), October 10–11, 2025
 
 
 2023 Prosodic conditioning in French word part ellipsis \
