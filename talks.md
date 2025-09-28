@@ -42,5 +42,5 @@ Going Romance 37 \
 
 `Chinese presupposition trigger ye in questions` \
 (with Pascal Amsili) \
-Exhaustivity in Questions and Answers -- Experimental and theoretical approaches (ExQA2019) \ 
+Exhaustivity in Questions and Answers -- Experimental and theoretical approaches (ExQA2019)  \
 13-14 June 2019, Tübingen, Germany
