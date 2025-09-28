@@ -10,7 +10,7 @@ subtitle:
 8th International Conference on Chinese as a Second Language Research (CASLAR-8) \
 Brașov, Romania. May 30 – June 1, 2025 \
 53rd Poznań Linguistic Meeting (PLM) \
-Poznań, Poland. 21 - 24 September, 2025 \
+Poznań, Poland. September 21 - 24, 2025 \
 6th Harvard International Conference on Chinese Pedagogy (ICCP) \
 Boston, USA. October 10 – 11, 2025
 
@@ -18,7 +18,8 @@ Boston, USA. October 10 – 11, 2025
 
 `French and German word part ellipsis in coordination structures under identity` \
 (with Judith Meinschaefer) \
-Experimental and Corpus-Based Approaches to Ellipsis (ECBAE), September 8-9, 2025, Saarbrücken, Germany
+Experimental and Corpus-Based Approaches to Ellipsis (ECBAE) \
+Saarbrücken, Germany. September 8 - 9, 2025
 
 
 
