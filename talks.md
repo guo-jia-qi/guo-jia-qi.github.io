@@ -27,7 +27,7 @@ Experimental and Corpus-Based Approaches to Ellipsis (ECBAE) \
 (with Jinlei Zhong) \
 Monday TCFL Research Lectures: Forschungsthemen der Fachdidaktik Chinesisch \
 2 June 2025, Freie Universität Berlin \
-AREC(Association Recherche et Enseignement du Chinois) \
+Journées d’études AREC (Association Recherche et Enseignement du Chinois) \
 24-25 June 2025, Université Paris Cité
 
 
