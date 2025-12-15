@@ -6,7 +6,7 @@ subtitle:
 
 
 `Influence of shape similarity on classifier effect: evidence from native adults and CSL learners` \
-(with Jinlei Zhong) \
+(w. Jinlei Zhong) \
 8th International Conference on Chinese as a Second Language Research (CASLAR-8) \
 30 May –  1 June 2025, Brașov, Romania \
 53rd Poznań Linguistic Meeting (PLM) \
@@ -17,14 +17,14 @@ subtitle:
 
 
 `French and German word part ellipsis in coordination structures under identity` \
-(with Judith Meinschaefer) \
+(w. Judith Meinschaefer) \
 Experimental and Corpus-Based Approaches to Ellipsis (ECBAE) \
 8-9 September 2025, Saarbrücken, Germany
 
 
 
 `Differential Sensitivity to Syllabic and Syntactic Errors in Chinese L2 Acquisition: A Study of Verbal Monosyllabic-Disyllabic Word Pair Processing Among German-Speaking Learners` \
-(with Jinlei Zhong) \
+(w. Jinlei Zhong) \
 Monday TCFL Research Lectures: Forschungsthemen der Fachdidaktik Chinesisch \
 2 June 2025, Freie Universität Berlin \
 Journées d’études AREC (Association Recherche et Enseignement du Chinois) \
@@ -34,13 +34,13 @@ Journées d’études AREC (Association Recherche et Enseignement du Chinois) \
 
 
 `Prosodic conditioning in French word part ellipsis` \
-(with Judith Meinschaefer) \
+(w. Judith Meinschaefer) \
 Going Romance 37 \
 30 November - 1 December 2023, Nijmegen, Netherlands
 
 
 
 `Chinese presupposition trigger ye in questions` \
-(with Pascal Amsili) \
+(w. Pascal Amsili) \
 Exhaustivity in Questions and Answers -- Experimental and theoretical approaches (ExQA2019)  \
 13-14 June 2019, Tübingen, Germany
