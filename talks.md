@@ -4,7 +4,7 @@ title: Talks
 subtitle: 
 ---
 
-`基于深度访谈的汉语亲密关系背称新词研究 [Beyond Romance: An Interview-Based Study of Neologistical Terms of Reference for Intimate Partners in Mandarin Chinese]` \
+`基于深度访谈的汉语亲密关系背称新词研究 [Beyond romance: An Interview-Based Study of Neologistical Terms of Reference for Intimate Partners in Mandarin Chinese]` \
 (w. Jinlei Zhong) \
 The 38th North American Conference on Chinese Linguistics (NACCL-38) \
 May 8-10, 2026, George Washington University, Washington, D.C.
