@@ -19,7 +19,7 @@ Introduction à la syntaxe du français (WiSe25/26) \
 Variation et changement du français (SoSe24) \
 Aspects of Chinese morphology  (SoSe24) \
 Initiation à la sémantique du français (WiSe23/24) \
-Empirische Methoden der Sprachwissenschaft (with Judith Meinschaefer) (SoSe23) \
+Empirische Methoden der Sprachwissenschaft (with Judith Meinschaefer) (SoSe23)
 
 
 ##### Ocean Univerisity of China (Fushan Campus)
